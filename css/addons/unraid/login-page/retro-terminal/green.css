@@ -11,15 +11,15 @@
 --body-after: #00ff7733;
 --body-animation: flicker;
 --logo: url(/css/addons/unraid/login-page/alien/logo/wings_green.png) center no-repeat;
---text-color: #37f592;
---input-color: #37f592;
---link-color: #37f592;
---link-color-hover: #68ffff;
---case-color: #37f592;
---button-text-color: #37f592;
+--text-color: #5604ba;
+--input-color: #5604ba;
+--link-color: #5604ba;
+--link-color-hover: #f268ff;
+--case-color: #5604ba;
+--button-text-color: #5604ba;
 --button-text-color-hover: #000;
 --button-color: #37f592;
---button-color-hover: #68ffff;
+--button-color-hover: #f268ff;
 --selection-color: #68ffff;
 --custom-text-header:#37f592;
 --custom-text-header-shadow:#37f592;
@@ -28,6 +28,6 @@
 --text-font: 'Share Tech Mono', monospace;
 --loginbox-background-color: transparent;
 --text-shadow: 0 0 8px;
---text-shadow-color: #37f592;
+--text-shadow-color: #5604ba;
 --box-shadow: 0 0 15px;
 }
